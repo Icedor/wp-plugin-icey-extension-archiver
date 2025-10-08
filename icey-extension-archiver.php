@@ -2,7 +2,7 @@
 /**
  * Plugin Name: Icey - Extension archiver
  * Description: Securely archive inactive plugins to prevent security risks and avoid WordPress warnings. Restore anytime with a single click.
- * Version: 1.0.2
+ * Version: 1.0.3
  * Author: Icey
  * Author URI: https://icey.se/
  * License: GPLv2 or later
