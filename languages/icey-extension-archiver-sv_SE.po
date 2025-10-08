@@ -1,0 +1,36 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Icey Extension Archiver\n"
+"POT-Creation-Date: 2025-02-12\n"
+"PO-Revision-Date: 2025-02-12\n"
+"Last-Translator: Icedor <wp@icey.se>\n"
+"Language-Team: Swedish\n"
+"Language: sv_SE\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.0\n"
+
+msgid "Securely archive inactive plugins to prevent security risks and avoid WordPress warnings. Restore anytime with a single click."
+msgstr "Arkivera inaktiva tillägg säkert för att förhindra säkerhetsrisker och undvika WordPress-varningar. Återställ när som helst med ett klick."
+
+msgid "Archived Extensions"
+msgstr "Arkiverade tillägg"
+
+msgid "No archived extensions found."
+msgstr "Inga arkiverade tillägg hittades."
+
+msgid "Extension"
+msgstr "Tillägg"
+
+msgid "Actions"
+msgstr "Åtgärder"
+
+msgid "Restore"
+msgstr "Återställ"
+
+msgid "Disable extension before archiving"
+msgstr "Inaktivera tillägget innan arkivering"
+
+msgid "Archive"
+msgstr "Arkivera"
